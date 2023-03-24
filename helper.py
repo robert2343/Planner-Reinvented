@@ -72,7 +72,7 @@ def printHelp():
     print("Don't use this unless your computer's clock is correct.")
     print("  On Linux/BSD/MacOS, see the date command.")
     print("  On Windows, look at the \"Change Date and Time\" settings in \"System Settings\".")
-    print("To learn more: https://gitlab.com/123456robert/planner-reinvented")
+    print("To learn more: https://github.com/robert2343/Planner-Reinvented")
 
 def month2Int(month):
     if month == "January":
